@@ -1,7 +1,7 @@
 {
-    "USERNAME": "gondimdigital24@gmail.com",
-    "PASSWORD": "uurdbmbarufwihjm",
-    "FROM_EMAIL": "nathangf60@outlook.com",
-    "LOG_FOLDER":".\\",
-    "DESTINATION_FOLDER":".\\"
+    "USERNAME": "SEU_EMAIL",
+    "PASSWORD": "SUA_SENHA",
+    "FROM_EMAIL": "EMAIL_REMETENTE",
+    "LOG_FOLDER":"PASTA_DE_LOG",
+    "DESTINATION_FOLDER":"PASTA_DE_DESTINO"
 }
